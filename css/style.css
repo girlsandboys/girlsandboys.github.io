@@ -172,6 +172,11 @@ input:-webkit-autofill {
 
 }
 
+.overlay-overide {
+	margin: 0; 
+
+}
+
 .overlay h2 {
 	font-family:  Futura, 'Futura-Medium', 'Open Sans', 'Trebuchet MS', Arial, sans-serif;
 	font-size: 1.3em;

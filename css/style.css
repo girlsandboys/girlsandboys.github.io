@@ -180,7 +180,14 @@ input:-webkit-autofill {
 .overlay h2 {
 	font-family:  Futura, 'Futura-Medium', 'Open Sans', 'Trebuchet MS', Arial, sans-serif;
 	font-size: 1.3em;
-	margin-bottom: 1.5em;
+	margin-bottom: .6em;
+}
+
+.overlay h3 {
+	font-family:  Futura, 'Futura-Medium', 'Open Sans', 'Trebuchet MS', Arial, sans-serif;
+	font-size: .8em;
+	text-transform: uppercase;
+	margin-bottom: 2em;
 }
 
 .content {
